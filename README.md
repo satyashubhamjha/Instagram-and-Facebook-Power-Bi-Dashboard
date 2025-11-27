@@ -40,8 +40,6 @@ This will help the marketing team:
 
 ### PROBLEM STATEMENTS:-
 
-<img width="1344" height="768" alt="Meta_Ad_Performance_Problem_Statement" src="https://github.com/user-attachments/assets/your-image-id-here" />
-
 ---
 
 ### ⬇️ (KPIs) Requirements For Summary Dashboard:-
@@ -103,11 +101,15 @@ Average budget assigned to each campaign. Helps compare **budget distribution vs
 
 ---
 
-## 📊 Summary Dashboard
+## 📊 Instagram Dashboard
 
-[![Dashboard Button](https://img.shields.io/badge/VISUALIZE%20NOW-Meta%20Ads%20Dashboard-blueviolet?style=for-the-badge&logo=powerbi)](https://github.com/satyashubhamjha/Instagram-and-Facebook-Power-Bi-Dashboard/blob/main/Meta_Ads_Summary_Dashboard.png)
+[![Dashboard Button](https://img.shields.io/badge/VISUALIZE%20NOW-Meta%20Ads%20Dashboard-blueviolet?style=for-the-badge&logo=powerbi)](https://github.com/satyashubhamjha/Instagram-and-Facebook-Power-Bi-Dashboard/blob/main/Instagram%20Dashboard.png)
 
 ---
+
+## 📊 Facebook Dashboard
+
+[![Dashboard Button](https://img.shields.io/badge/VISUALIZE%20NOW-Meta%20Ads%20Dashboard-blueviolet?style=for-the-badge&logo=powerbi)](https://github.com/satyashubhamjha/Instagram-and-Facebook-Power-Bi-Dashboard/blob/main/Facebook%20Dashboard.png)
 
 ### ⬇️ (KPIs) Requirements For Overview Dashboard (Charts):-
 
