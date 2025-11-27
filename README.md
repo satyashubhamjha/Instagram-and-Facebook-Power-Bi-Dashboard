@@ -174,10 +174,9 @@ The dataset follows a **star schema**, with one fact table and three dimension t
 
 ## 🛠️ Tools Used
 
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/satyashubhamjha/Instagram-and-Facebook-Power-Bi-Dashboard/blob/main/Meta_Ads_Dashboard.pbix)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://github.com/satyashubhamjha)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/satyashubhamjha)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/satyashubhamjha/Instagram-and-Facebook-Power-Bi-Dashboard/blob/main/instagram%20and%20facebook%20full%20stack%20dashboard.pbix)
 
 ---
 
