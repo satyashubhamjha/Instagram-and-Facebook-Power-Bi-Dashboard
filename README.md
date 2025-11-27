@@ -165,7 +165,7 @@ The dataset follows a **star schema**, with one fact table and three dimension t
 ## 🧠 Meta Ads Overall Analysis – Mind Map
 
 <p align="center">
-  <img src="https://github.com/satyashubhamjha/Instagram-and-Facebook-Power-Bi-Dashboard/blob/main/Mind_Map_Meta_Ads_Analysis.png" width="650" />
+  <img src="https://github.com/satyashubhamjha/Instagram-and-Facebook-Power-Bi-Dashboard/blob/main/Mind%20Map%20Of%20Fcebook%20And%20Instagram%20Analysis.png" width="650" />
 </p>
 
 > **Figure:** Mind map covering the overall Meta Ads analysis – KPIs, audience segments, platforms, ad types, geography, time trends, and budget optimization.
