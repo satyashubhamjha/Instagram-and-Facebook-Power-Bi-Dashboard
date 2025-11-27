@@ -1,5 +1,7 @@
-# :rocket: Instagram-and-Facebook-Power-Bi-Dashboard
-This dashboard helps digital marketers, analysts, and businesses understand how well their Meta ads are performing and identify opportunities to improve engagement, conversion, and ROI.
+# :rocket: Meta Ad Performance Analysis – Instagram & Facebook Power BI Dashboard
+
+This Power BI solution delivers a complete analytical system for tracking **Meta ad campaign performance** across **Facebook and Instagram**.  
+It helps marketing teams and data analysts understand **reach, engagement, conversions, audience behavior, and budget efficiency** in a single interactive dashboard.
 
 [![AD_EVENTS](https://img.shields.io/badge/AD_EVENTS-Download-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/satyashubhamjha/Instagram-and-Facebook-Power-Bi-Dashboard/blob/main/ad_events.csv)
 
