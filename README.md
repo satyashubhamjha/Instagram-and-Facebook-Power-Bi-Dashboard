@@ -33,7 +33,7 @@ The dashboard must provide clear visibility into:
 This will help the marketing team:
 
 - ✅ Identify the **most effective platform** (Facebook vs Instagram)  
-- ✅ Track **campaign ROI** and optimize **budget allocation**  
+- ✅ Track **campaign ROI** and optimize **budget allocation**   
 - ✅ Understand **audience engagement patterns** and improve targeting  
 
 ---
