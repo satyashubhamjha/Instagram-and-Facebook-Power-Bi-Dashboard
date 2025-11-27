@@ -11,3 +11,8 @@ This dashboard helps digital marketers, analysts, and businesses understand how 
 
 
 
+
+<img width="1344" height="768" alt="Gemini_Generated_Image_5smrhm5smrhm5smr" src="https://github.com/satyashubhamjha/Instagram-and-Facebook-Power-Bi-Dashboard/blob/main/Facebook%20And%20Instagram%20Analysis.png" />
+
+
+
