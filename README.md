@@ -186,3 +186,12 @@ The dataset follows a **star schema**, with one fact table and three dimension t
 > 3️⃣ Refresh the data and explore KPIs, filters, and interactive visuals.  
 > 4️⃣ Use the dashboard insights to optimize **targeting, timing, ad formats, and budget allocation**.
 
+---
+
+# 🙌 Author  
+**SHUBHAM KUMAR JHA**  
+📧 Email: shubhamjha14081@gmail.com 
+🔗 GitHub: https://github.com/satyashubhamjha 
+
+---
+
