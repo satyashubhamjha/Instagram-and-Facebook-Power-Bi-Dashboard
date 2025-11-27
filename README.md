@@ -1,2 +1,6 @@
 # Instagram-and-Facebook-Power-Bi-Dashboard
 This dashboard helps digital marketers, analysts, and businesses understand how well their Meta ads are performing and identify opportunities to improve engagement, conversion, and ROI.
+[![Excel](https://img.shields.io/badge/Excel-Download-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/satyashubhamjha/Finance-and-Bank-Domain-Full-Stack-Data-Analysis/blob/main/financial_loan_data_excel.xlsx)
+[![Excel](https://img.shields.io/badge/Excel-Download-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/satyashubhamjha/Finance-and-Bank-Domain-Full-Stack-Data-Analysis/blob/main/financial_loan_data_excel.xlsx)
+[![Excel](https://img.shields.io/badge/Excel-Download-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/satyashubhamjha/Finance-and-Bank-Domain-Full-Stack-Data-Analysis/blob/main/financial_loan_data_excel.xlsx)
+[![Excel](https://img.shields.io/badge/Excel-Download-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/satyashubhamjha/Finance-and-Bank-Domain-Full-Stack-Data-Analysis/blob/main/financial_loan_data_excel.xlsx)
